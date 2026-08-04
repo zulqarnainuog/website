@@ -585,6 +585,16 @@ nav{
 }
 
 @media(max-width:576px){
+   
+    h2{
+        padding-top: 35px;
+    }
+    .about-grid img{
+        margin-left: 88px;
+    }
+
+
+    
 
 .title{
     font-size:32px;
