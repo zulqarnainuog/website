@@ -586,6 +586,7 @@ nav{
 
 @media(max-width:576px){
     header{
+        position:fixed;
         height: auto;
         padding: 25px 20px;
     }
