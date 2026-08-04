@@ -590,7 +590,8 @@ nav{
         padding-top: 35px;
     }
     .about-grid img{
-        margin:auto;
+        display: block;
+        margin: 0 auto;
     }
 
 
