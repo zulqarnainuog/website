@@ -586,15 +586,12 @@ nav{
 
 @media(max-width:576px){
     header{
-        /* position:fixed; */
-        height: auto;
         padding: 25px 20px;
     }
    
     h2{
-        font-size: 29px;
         padding-top: 0px;
-        /* white-space: normal; */
+        text-align: center;
     }
     .about-grid img{
         display: block;
